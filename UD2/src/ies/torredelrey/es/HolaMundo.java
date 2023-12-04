@@ -5,7 +5,7 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hola mundo, este es mi primer programa");
+		System.out.println("Hola mundo, esta es la modificación que requiere María");
 		System.out.println("Este es mi segundo mensaje");
 		
 		// Declarar una variable, 
