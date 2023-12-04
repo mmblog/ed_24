@@ -7,6 +7,7 @@ public class HolaMundo {
 		
 		System.out.println("Hola mundo, este es mi primer programa");
 		System.out.println("Este es mi segundo mensaje");
+		System.out.println("Mensaje de prueba para la tarea de GitHub")
 		
 		// Declarar una variable, 
 		int num1 = 5;
