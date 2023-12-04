@@ -9,8 +9,8 @@ public class HolaMundo {
 		System.out.println("Este es mi segundo mensaje");
 		
 		// Declarar una variable, 
-		int num1 = 5;
-		int num2 = 6;
+		int num1 = 8;
+		int num2 = 8;
 		
 		System.out.println("El valor de num1 es: "+num1+" y el valor de num2 es: "+num2);
 		
